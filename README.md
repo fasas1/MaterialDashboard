@@ -1,5 +1,5 @@
 # Fintech Admin Dashboard
-This project is an Admin Dashboard built for a fintech application using React and Tailwind CSS. It provides an intuitive interface for administrators to manage various aspects of the fintech platform efficiently.
+This project is an Admin Dashboard built for a fintech application using React and Tailwind CSS. It provides an intuitive interface for administrators to manage various aspects of the fintech platform efficiently
 ### Screenshot
 ![web](https://github.com/user-attachments/assets/a44faec8-b628-43f8-a699-b898fdaba84b)
 
